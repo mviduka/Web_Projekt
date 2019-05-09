@@ -31,7 +31,7 @@ Socket.on () čita poslanu poruku.Kod izvršen u ovom bloku utječe na sve klije
 S obzirom na lokalno pohranjivanje, pohranjuje se ime, trenutni kanal i podatke o kanalu.
 </ P>
 
-</ P>
+
 
 <h1> Python: poslužitelj </h1>
 <H2> application.py </ h2>
@@ -43,7 +43,7 @@ izvršava. Socketio šalje poruke, a odgovorni su za poruke u određenom kanalu.
 Funkcija slanja poruke dodaje novu poruku na servere, briše posljednju poruku iz pohrane ako postoj
 više od 100 poruka, a zatim emitira poruku koju su primili svi klijenit na kanalu na koji je poslan.
 
-</ P>
+
 
 <h1>Osobni osvrt  </h1>
 <p> Dodao sam prikazanom nazivu "superuser" posebne povlastice.Dane su im ovlasti da izbrišu bilo koji kanal i njegove komentare sa servera i iz pogleda bilo kojeg drugog korisnika koji koristi aplikaciju. Za brisanje kanala,
