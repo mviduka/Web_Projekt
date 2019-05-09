@@ -19,7 +19,7 @@ stupac pregleda poruke dinamički mijenja veličinu kako se preglednik mijenja h
 
 <h1> CSS i SCSS </h1>
 <h2> styles.css & styles.scss </h2>
-<p> Te datoteke sadrže stil koji koristim na web projektu. </p>
+<p> Te datoteke sadrže stilove koji se kosriste na web projektu. </p>
 
 <h1> Javascript: klijent </h1>
 <H2> index.js </ h2>
